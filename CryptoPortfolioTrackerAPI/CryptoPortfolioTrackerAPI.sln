@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoPortfolioTrackerAPI", "CryptoPortfolioTrackerAPI.csproj", "{3477CC6C-2552-1C1A-CEE5-CFC9AA41E12B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3477CC6C-2552-1C1A-CEE5-CFC9AA41E12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3477CC6C-2552-1C1A-CEE5-CFC9AA41E12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3477CC6C-2552-1C1A-CEE5-CFC9AA41E12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3477CC6C-2552-1C1A-CEE5-CFC9AA41E12B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1126461F-97AE-4537-945B-15485B85BAA0}
+	EndGlobalSection
+EndGlobal
