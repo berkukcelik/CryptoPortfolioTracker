@@ -11,4 +11,4 @@ This application is mainly a personal learning project. I'm using it to practice
 - Database connections and CRUD operations
 - Git & GitHub workflows
 - Structuring a real-world project
-- (Optional) Building a simple UI or API
+- Building a simple UI or API
